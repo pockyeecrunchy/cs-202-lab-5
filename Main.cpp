@@ -104,3 +104,18 @@ int main()
 
     return 0;
 }
+
+//The number of elements in each row in the hash table is around 60 nodes.
+//Therefore, when the application is supposed to find, insert, or delete an element, 
+// the program will simply traverse only 60 nodes rather than traverse all 6000 of them. 
+// This is a significant difference. From the perspective of Big O notation, 
+//the algorithm used with hash tables reduces the time complexity on average to O(n/k), 
+// where n represents the total number of elements in the array (6000), while k represents 
+// the number of buckets (100). Because the number of buckets (k) is constant, it can be 
+// concluded that the Big O notation is essentially O(1) on average: constant time!
+//This compares quite favorably to linear linked list implementation,
+// because the latter must traverse up to all 6000 elements in its worst case scenario, 
+// thus resulting in a time complexity of O(n).With this in mind, we have reduced the 
+// amount of processing needed by 100 times.
+//
+//
