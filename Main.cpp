@@ -84,7 +84,7 @@ int main()
     for (int index = 0; index < TABLE_SIZE; index++)
     {
         int count = 0;
-        node* current = table.GetRow(0);
+        node* current = table.GetRow(index);
 
         while (current != nullptr)
         {

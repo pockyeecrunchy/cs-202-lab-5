@@ -1,26 +1,27 @@
+
 #include "Standard.h"
 #include "Functions.h"
 
 void CreateNode(node* pNewNode, string name)
 {
-	//Set player name
-	pNewNode->data.name = name;
+    //Set player name
+    pNewNode->data.name = name;
 
-	//Initialize next pointer to nu
-	pNewNode->pNext = nullptr;
+    //Initialize next pointer to nu
+    pNewNode->pNext = nullptr;
 
-	//Initialize number of teams to 0
-	pNewNode->data.numberOfTeams = 0;
+    //Initialize number of teams to 0
+    pNewNode->data.numberOfTeams = 0;
 }
 
 void ReadDataFile(ifstream& fin, hashTable& table)
 {
-	//create two local string variables
-	string name;
-	string team;
+    //create two local string variables
+    string name;
+    string team;
 
-	//Create a local node pointer
-	node* pNewNode = nullptr;
+    //Create a local node pointer
+    node* pNewNode = nullptr;
 
 
     // Read until end of file
@@ -60,7 +61,7 @@ void ReadDataFile(ifstream& fin, hashTable& table)
 void OpenFiles(ifstream& fin, ofstream& fout)
 {
     // Open input file
-    fin.open("input.txt");
+    fin.open("players.txt");
 
     // Open output file
     fout.open("output.txt");
