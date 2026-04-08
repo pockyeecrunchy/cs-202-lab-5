@@ -2,42 +2,42 @@
 Name                          Team 1                        Team 2                        Team 3                        
 ****************************************************************************************************
 Adam Mitchell                 New York Knicks               No team                       No team                       
-Adam Ramirez                  Brooklyn Nets                 Dallas Mavericks              No team                       
+Adam Ramirez                  Brooklyn Nets                 Dallas Mavericks              Chicago Bulls                 
 Alan Peterson                 Milwaukee Bucks               No team                       No team                       
-Alan Wright                   Dallas Cowboys                Baltimore Ravens              No team                       
+Alan Wright                   Dallas Cowboys                Baltimore Ravens              San Francisco 49ers           
 Alexander Hernandez           Los Angeles Lakers            No team                       No team                       
 Andrew Nguyen                 San Francisco 49ers           Chicago Bears                 No team                       
-Andrew Taylor                 Los Angeles Clippers          Chicago Bulls                 No team                       
+Andrew Taylor                 Los Angeles Clippers          Chicago Bulls                 Miami Heat                    
 Anthony Gutierrez             New England Patriots          Miami Dolphins                No team                       
 Anthony Martinez              New York Giants               Buffalo Bills                 No team                       
 Anthony Morgan                Los Angeles Rams              No team                       No team                       
 Anthony Nelson                Seattle Seahawks              Miami Dolphins                No team                       
 Anthony Parker                Denver Broncos                Kansas City Chiefs            No team                       
-Anthony Rodriguez             Milwaukee Bucks               Phoenix Suns                  No team                       
+Anthony Rodriguez             Milwaukee Bucks               Phoenix Suns                  Chicago Bulls                 
 Austin Peterson               Green Bay Packers             No team                       No team                       
 Austin Wright                 Baltimore Ravens              New York Giants               No team                       
 Benjamin Cooper               Kansas City Chiefs            No team                       No team                       
-Benjamin Robinson             Miami Dolphins                New England Patriots          No team                       
+Benjamin Robinson             Miami Dolphins                New England Patriots          Green Bay Packers             
 Billy Richardson              Miami Dolphins                New England Patriots          No team                       
 Brandon Campbell              Golden State Warriors         No team                       No team                       
 Brandon Ortiz                 Miami Heat                    No team                       No team                       
-Brandon Walker                Baltimore Ravens              Los Angeles Rams              No team                       
+Brandon Walker                Baltimore Ravens              Los Angeles Rams              Chicago Bears                 
 Brian Nguyen                  Los Angeles Lakers            No team                       No team                       
-Bruce Cooper                  Dallas Cowboys                Chicago Bears                 No team                       
+Bruce Cooper                  Dallas Cowboys                Chicago Bears                 Baltimore Ravens              
 Bruce Robinson                Baltimore Ravens              New York Giants               No team                       
-Bryan Wright                  San Antonio Spurs             Dallas Mavericks              No team                       
-Carl Cooper                   Golden State Warriors         Milwaukee Bucks               No team                       
-Carl Robinson                 Golden State Warriors         Philadelphia 76ers            No team                       
+Bryan Wright                  San Antonio Spurs             Dallas Mavericks              Miami Heat                    
+Carl Cooper                   Golden State Warriors         Milwaukee Bucks               Dallas Mavericks              
+Carl Robinson                 Golden State Warriors         Philadelphia 76ers            Chicago Bulls                 
 Christopher Peterson          Kansas City Chiefs            Green Bay Packers             No team                       
-Christopher Wright            Denver Broncos                New York Giants               No team                       
-Donald Ortiz                  Pittsburgh Steelers           New York Giants               No team                       
-Douglas Hernandez             Phoenix Suns                  Los Angeles Lakers            No team                       
+Christopher Wright            Denver Broncos                New York Giants               Los Angeles Rams              
+Donald Ortiz                  Pittsburgh Steelers           New York Giants               Los Angeles Rams              
+Douglas Hernandez             Phoenix Suns                  Los Angeles Lakers            Golden State Warriors         
 Douglas Sanchez               Dallas Mavericks              No team                       No team                       
-Dylan Nguyen                  New England Patriots          Baltimore Ravens              No team                       
+Dylan Nguyen                  New England Patriots          Baltimore Ravens              Green Bay Packers             
 Dylan Taylor                  San Antonio Spurs             Philadelphia 76ers            No team                       
 Edward Bennett                Boston Celtics                Dallas Mavericks              No team                       
 Edward Ruiz                   Los Angeles Clippers          Boston Celtics                No team                       
-Edward Scott                  Boston Celtics                Chicago Bulls                 No team                       
+Edward Scott                  Boston Celtics                Chicago Bulls                 Los Angeles Lakers            
 Eric Nguyen                   Philadelphia 76ers            No team                       No team                       
 Ethan Allen                   Miami Dolphins                No team                       No team                       
 Frank Jackson                 Dallas Mavericks              No team                       No team                       
@@ -46,144 +46,144 @@ Gabriel Green                 Los Angeles Lakers            San Antonio Spurs   
 Gabriel Turner                Baltimore Ravens              No team                       No team                       
 Gary Johnson                  Brooklyn Nets                 No team                       No team                       
 Gary Martin                   Milwaukee Bucks               No team                       No team                       
-Gary Stewart                  Dallas Mavericks              Brooklyn Nets                 No team                       
+Gary Stewart                  Dallas Mavericks              Brooklyn Nets                 Chicago Bulls                 
 Gregory Baker                 Green Bay Packers             Baltimore Ravens              No team                       
-Gregory Hall                  Boston Celtics                Golden State Warriors         No team                       
+Gregory Hall                  Boston Celtics                Golden State Warriors         Phoenix Suns                  
 Gregory Lopez                 Baltimore Ravens              No team                       No team                       
 Harold Gomez                  Baltimore Ravens              No team                       No team                       
-Harold Gutierrez              Denver Nuggets                Milwaukee Bucks               No team                       
+Harold Gutierrez              Denver Nuggets                Milwaukee Bucks               Chicago Bulls                 
 Harold Martinez               Miami Heat                    No team                       No team                       
 Harold Morgan                 Denver Nuggets                Philadelphia 76ers            No team                       
 Harold Parker                 Los Angeles Clippers          No team                       No team                       
-Harold Rodriguez              Chicago Bulls                 Los Angeles Lakers            No team                       
-Henry Chavez                  Green Bay Packers             Kansas City Chiefs            No team                       
+Harold Rodriguez              Chicago Bulls                 Los Angeles Lakers            Los Angeles Clippers          
+Henry Chavez                  Green Bay Packers             Kansas City Chiefs            Miami Dolphins                
 Henry Cox                     Miami Heat                    No team                       No team                       
-Henry Hill                    New York Knicks               Phoenix Suns                  No team                       
-Jack Cooper                   Green Bay Packers             Pittsburgh Steelers           No team                       
+Henry Hill                    New York Knicks               Phoenix Suns                  Boston Celtics                
+Jack Cooper                   Green Bay Packers             Pittsburgh Steelers           Baltimore Ravens              
 Jack Robinson                 San Antonio Spurs             Milwaukee Bucks               No team                       
-Jacob Bennett                 New York Giants               Chicago Bears                 No team                       
+Jacob Bennett                 New York Giants               Chicago Bears                 New England Patriots          
 Jacob Scott                   Buffalo Bills                 Baltimore Ravens              No team                       
-James Carter                  New England Patriots          Chicago Bears                 No team                       
-Jason Allen                   Golden State Warriors         Los Angeles Lakers            No team                       
+James Carter                  New England Patriots          Chicago Bears                 Miami Dolphins                
+Jason Allen                   Golden State Warriors         Los Angeles Lakers            Miami Heat                    
 Jeffrey Cruz                  Miami Heat                    No team                       No team                       
 Jerry Jackson                 Denver Broncos                No team                       No team                       
-Jerry Perez                   Denver Broncos                Green Bay Packers             No team                       
+Jerry Perez                   Denver Broncos                Green Bay Packers             Seattle Seahawks              
 Jesse Green                   Boston Celtics                Philadelphia 76ers            No team                       
 Jesse Turner                  Golden State Warriors         No team                       No team                       
 Joe Anderson                  Miami Heat                    Dallas Mavericks              No team                       
-Joe Brown                     Chicago Bears                 Pittsburgh Steelers           No team                       
+Joe Brown                     Chicago Bears                 Pittsburgh Steelers           New York Giants               
 Joe Wilson                    New England Patriots          San Francisco 49ers           No team                       
 Jordan Cooper                 San Francisco 49ers           Miami Dolphins                No team                       
 Jordan Robinson               Chicago Bulls                 Brooklyn Nets                 No team                       
 Jose Nguyen                   Green Bay Packers             No team                       No team                       
-Jose Taylor                   Boston Celtics                Miami Heat                    No team                       
+Jose Taylor                   Boston Celtics                Miami Heat                    Milwaukee Bucks               
 Joshua Campbell               New York Knicks               Los Angeles Clippers          No team                       
 Joshua Ortiz                  Golden State Warriors         No team                       No team                       
 Joshua Walker                 Los Angeles Lakers            Denver Nuggets                No team                       
-Justin Anderson               Baltimore Ravens              Seattle Seahawks              No team                       
+Justin Anderson               Baltimore Ravens              Seattle Seahawks              Chicago Bears                 
 Justin Brown                  Chicago Bears                 No team                       No team                       
 Justin Diaz                   Los Angeles Lakers            No team                       No team                       
-Justin Wilson                 Chicago Bears                 Dallas Cowboys                No team                       
+Justin Wilson                 Chicago Bears                 Dallas Cowboys                New York Giants               
 Kevin Hall                    Pittsburgh Steelers           No team                       No team                       
 Kevin Lopez                   Denver Nuggets                No team                       No team                       
-Kyle Bennett                  Los Angeles Rams              Denver Broncos                No team                       
+Kyle Bennett                  Los Angeles Rams              Denver Broncos                Green Bay Packers             
 Kyle Gonzalez                 Los Angeles Rams              Kansas City Chiefs            No team                       
 Kyle Ruiz                     Kansas City Chiefs            Chicago Bears                 No team                       
-Kyle Scott                    Los Angeles Clippers          Chicago Bulls                 No team                       
-Larry Jackson                 Milwaukee Bucks               Los Angeles Clippers          No team                       
+Kyle Scott                    Los Angeles Clippers          Chicago Bulls                 Miami Heat                    
+Larry Jackson                 Milwaukee Bucks               Los Angeles Clippers          San Antonio Spurs             
 Larry Perez                   San Antonio Spurs             No team                       No team                       
 Lawrence Richardson           Baltimore Ravens              Miami Dolphins                No team                       
-Logan Cruz                    Chicago Bears                 New England Patriots          No team                       
+Logan Cruz                    Chicago Bears                 New England Patriots          Miami Dolphins                
 Matthew Gomez                 Miami Dolphins                No team                       No team                       
 Matthew Gutierrez             Miami Dolphins                Kansas City Chiefs            No team                       
 Matthew Martinez              Los Angeles Rams              New England Patriots          No team                       
-Matthew Morgan                Boston Celtics                Dallas Mavericks              No team                       
-Matthew Parker                New York Knicks               Phoenix Suns                  No team                       
-Matthew Rodriguez             New York Giants               Dallas Cowboys                No team                       
-Michael Allen                 Baltimore Ravens              Dallas Cowboys                No team                       
+Matthew Morgan                Boston Celtics                Dallas Mavericks              Miami Heat                    
+Matthew Parker                New York Knicks               Phoenix Suns                  Dallas Mavericks              
+Matthew Rodriguez             New York Giants               Dallas Cowboys                Buffalo Bills                 
+Michael Allen                 Baltimore Ravens              Dallas Cowboys                Denver Broncos                
 Noah Sanchez                  Los Angeles Clippers          No team                       No team                       
 Patrick Nguyen                New York Knicks               No team                       No team                       
 Paul Cruz                     Baltimore Ravens              Chicago Bears                 No team                       
 Peter Reed                    Baltimore Ravens              No team                       No team                       
 Peter Thompson                Miami Heat                    No team                       No team                       
-Peter Ward                    Pittsburgh Steelers           Buffalo Bills                 No team                       
-Peter Wood                    New York Giants               Buffalo Bills                 No team                       
-Ralph Ramirez                 Chicago Bears                 Seattle Seahawks              No team                       
+Peter Ward                    Pittsburgh Steelers           Buffalo Bills                 Miami Dolphins                
+Peter Wood                    New York Giants               Buffalo Bills                 Miami Dolphins                
+Ralph Ramirez                 Chicago Bears                 Seattle Seahawks              Miami Dolphins                
 Raymond Chavez                Dallas Mavericks              Chicago Bulls                 No team                       
 Raymond Hill                  Seattle Seahawks              San Francisco 49ers           No team                       
 Richard Richardson            Miami Heat                    Dallas Mavericks              No team                       
-Robert Miller                 Kansas City Chiefs            Denver Broncos                No team                       
+Robert Miller                 Kansas City Chiefs            Denver Broncos                Green Bay Packers             
 Robert Watson                 San Antonio Spurs             Boston Celtics                No team                       
 Roger Gomez                   Los Angeles Lakers            No team                       No team                       
-Roger Gutierrez               Denver Nuggets                Los Angeles Lakers            No team                       
+Roger Gutierrez               Denver Nuggets                Los Angeles Lakers            Chicago Bulls                 
 Roger Martinez                San Francisco 49ers           No team                       No team                       
 Roger Morgan                  Green Bay Packers             No team                       No team                       
 Roger Nelson                  Chicago Bears                 Seattle Seahawks              No team                       
-Roger Rodriguez               Miami Dolphins                Chicago Bears                 No team                       
-Ryan Anderson                 Green Bay Packers             Chicago Bears                 No team                       
+Roger Rodriguez               Miami Dolphins                Chicago Bears                 Dallas Cowboys                
+Ryan Anderson                 Green Bay Packers             Chicago Bears                 New England Patriots          
 Ryan Brown                    Buffalo Bills                 No team                       No team                       
-Ryan Diaz                     New York Knicks               Miami Heat                    No team                       
+Ryan Diaz                     New York Knicks               Miami Heat                    Boston Celtics                
 Ryan Wilson                   New England Patriots          No team                       No team                       
 Samuel Green                  Buffalo Bills                 Denver Broncos                No team                       
-Samuel Turner                 Dallas Cowboys                Denver Broncos                No team                       
+Samuel Turner                 Dallas Cowboys                Denver Broncos                Seattle Seahawks              
 Sean Jackson                  Buffalo Bills                 Pittsburgh Steelers           No team                       
 Sean Perez                    Chicago Bulls                 No team                       No team                       
 Terry Miller                  Seattle Seahawks              No team                       No team                       
 Terry Watson                  Chicago Bears                 New England Patriots          No team                       
 Thomas Robinson               Denver Nuggets                No team                       No team                       
-Timothy Walker                Phoenix Suns                  Milwaukee Bucks               No team                       
-Tyler Robinson                Chicago Bulls                 Boston Celtics                No team                       
+Timothy Walker                Phoenix Suns                  Milwaukee Bucks               Philadelphia 76ers            
+Tyler Robinson                Chicago Bulls                 Boston Celtics                Miami Heat                    
 Walter Johnson                Seattle Seahawks              No team                       No team                       
 Walter Martin                 New York Knicks               Philadelphia 76ers            No team                       
-Walter Smith                  Miami Dolphins                Seattle Seahawks              No team                       
+Walter Smith                  Miami Dolphins                Seattle Seahawks              New York Giants               
 Walter Stewart                Los Angeles Lakers            San Antonio Spurs             No team                       
-Wayne Ramirez                 Kansas City Chiefs            Chicago Bears                 No team                       
+Wayne Ramirez                 Kansas City Chiefs            Chicago Bears                 Buffalo Bills                 
 William Howard                Phoenix Suns                  Miami Heat                    No team                       
 William Reed                  New England Patriots          Los Angeles Rams              No team                       
 William Thompson              Los Angeles Lakers            Los Angeles Clippers          No team                       
-William Ward                  Denver Nuggets                San Antonio Spurs             No team                       
-Zachary Taylor                Buffalo Bills                 Seattle Seahawks              No team                       
+William Ward                  Denver Nuggets                San Antonio Spurs             Brooklyn Nets                 
+Zachary Taylor                Buffalo Bills                 Seattle Seahawks              Dallas Cowboys                
 
 Records Printed: 6000
 
 After Deletions:
 Adam Mitchell                 New York Knicks               No team                       No team                       
-Adam Ramirez                  Brooklyn Nets                 Dallas Mavericks              No team                       
+Adam Ramirez                  Brooklyn Nets                 Dallas Mavericks              Chicago Bulls                 
 Alan Peterson                 Milwaukee Bucks               No team                       No team                       
-Alan Wright                   Dallas Cowboys                Baltimore Ravens              No team                       
+Alan Wright                   Dallas Cowboys                Baltimore Ravens              San Francisco 49ers           
 Alexander Hernandez           Los Angeles Lakers            No team                       No team                       
 Andrew Nguyen                 San Francisco 49ers           Chicago Bears                 No team                       
-Andrew Taylor                 Los Angeles Clippers          Chicago Bulls                 No team                       
+Andrew Taylor                 Los Angeles Clippers          Chicago Bulls                 Miami Heat                    
 Anthony Gutierrez             New England Patriots          Miami Dolphins                No team                       
 Anthony Martinez              New York Giants               Buffalo Bills                 No team                       
 Anthony Morgan                Los Angeles Rams              No team                       No team                       
 Anthony Nelson                Seattle Seahawks              Miami Dolphins                No team                       
 Anthony Parker                Denver Broncos                Kansas City Chiefs            No team                       
-Anthony Rodriguez             Milwaukee Bucks               Phoenix Suns                  No team                       
+Anthony Rodriguez             Milwaukee Bucks               Phoenix Suns                  Chicago Bulls                 
 Austin Peterson               Green Bay Packers             No team                       No team                       
 Austin Wright                 Baltimore Ravens              New York Giants               No team                       
 Benjamin Cooper               Kansas City Chiefs            No team                       No team                       
-Benjamin Robinson             Miami Dolphins                New England Patriots          No team                       
+Benjamin Robinson             Miami Dolphins                New England Patriots          Green Bay Packers             
 Billy Richardson              Miami Dolphins                New England Patriots          No team                       
 Brandon Campbell              Golden State Warriors         No team                       No team                       
 Brandon Ortiz                 Miami Heat                    No team                       No team                       
-Brandon Walker                Baltimore Ravens              Los Angeles Rams              No team                       
+Brandon Walker                Baltimore Ravens              Los Angeles Rams              Chicago Bears                 
 Brian Nguyen                  Los Angeles Lakers            No team                       No team                       
-Bruce Cooper                  Dallas Cowboys                Chicago Bears                 No team                       
+Bruce Cooper                  Dallas Cowboys                Chicago Bears                 Baltimore Ravens              
 Bruce Robinson                Baltimore Ravens              New York Giants               No team                       
-Bryan Wright                  San Antonio Spurs             Dallas Mavericks              No team                       
-Carl Cooper                   Golden State Warriors         Milwaukee Bucks               No team                       
-Carl Robinson                 Golden State Warriors         Philadelphia 76ers            No team                       
+Bryan Wright                  San Antonio Spurs             Dallas Mavericks              Miami Heat                    
+Carl Cooper                   Golden State Warriors         Milwaukee Bucks               Dallas Mavericks              
+Carl Robinson                 Golden State Warriors         Philadelphia 76ers            Chicago Bulls                 
 Christopher Peterson          Kansas City Chiefs            Green Bay Packers             No team                       
-Christopher Wright            Denver Broncos                New York Giants               No team                       
-Donald Ortiz                  Pittsburgh Steelers           New York Giants               No team                       
-Douglas Hernandez             Phoenix Suns                  Los Angeles Lakers            No team                       
+Christopher Wright            Denver Broncos                New York Giants               Los Angeles Rams              
+Donald Ortiz                  Pittsburgh Steelers           New York Giants               Los Angeles Rams              
+Douglas Hernandez             Phoenix Suns                  Los Angeles Lakers            Golden State Warriors         
 Douglas Sanchez               Dallas Mavericks              No team                       No team                       
-Dylan Nguyen                  New England Patriots          Baltimore Ravens              No team                       
+Dylan Nguyen                  New England Patriots          Baltimore Ravens              Green Bay Packers             
 Dylan Taylor                  San Antonio Spurs             Philadelphia 76ers            No team                       
 Edward Bennett                Boston Celtics                Dallas Mavericks              No team                       
 Edward Ruiz                   Los Angeles Clippers          Boston Celtics                No team                       
-Edward Scott                  Boston Celtics                Chicago Bulls                 No team                       
+Edward Scott                  Boston Celtics                Chicago Bulls                 Los Angeles Lakers            
 Eric Nguyen                   Philadelphia 76ers            No team                       No team                       
 Ethan Allen                   Miami Dolphins                No team                       No team                       
 Frank Jackson                 Dallas Mavericks              No team                       No team                       
@@ -192,102 +192,102 @@ Gabriel Green                 Los Angeles Lakers            San Antonio Spurs   
 Gabriel Turner                Baltimore Ravens              No team                       No team                       
 Gary Johnson                  Brooklyn Nets                 No team                       No team                       
 Gary Martin                   Milwaukee Bucks               No team                       No team                       
-Gary Stewart                  Dallas Mavericks              Brooklyn Nets                 No team                       
+Gary Stewart                  Dallas Mavericks              Brooklyn Nets                 Chicago Bulls                 
 Gregory Baker                 Green Bay Packers             Baltimore Ravens              No team                       
-Gregory Hall                  Boston Celtics                Golden State Warriors         No team                       
+Gregory Hall                  Boston Celtics                Golden State Warriors         Phoenix Suns                  
 Gregory Lopez                 Baltimore Ravens              No team                       No team                       
 Harold Gomez                  Baltimore Ravens              No team                       No team                       
-Harold Gutierrez              Denver Nuggets                Milwaukee Bucks               No team                       
+Harold Gutierrez              Denver Nuggets                Milwaukee Bucks               Chicago Bulls                 
 Harold Martinez               Miami Heat                    No team                       No team                       
 Harold Morgan                 Denver Nuggets                Philadelphia 76ers            No team                       
 Harold Parker                 Los Angeles Clippers          No team                       No team                       
-Harold Rodriguez              Chicago Bulls                 Los Angeles Lakers            No team                       
-Henry Chavez                  Green Bay Packers             Kansas City Chiefs            No team                       
+Harold Rodriguez              Chicago Bulls                 Los Angeles Lakers            Los Angeles Clippers          
+Henry Chavez                  Green Bay Packers             Kansas City Chiefs            Miami Dolphins                
 Henry Cox                     Miami Heat                    No team                       No team                       
-Henry Hill                    New York Knicks               Phoenix Suns                  No team                       
-Jack Cooper                   Green Bay Packers             Pittsburgh Steelers           No team                       
+Henry Hill                    New York Knicks               Phoenix Suns                  Boston Celtics                
+Jack Cooper                   Green Bay Packers             Pittsburgh Steelers           Baltimore Ravens              
 Jack Robinson                 San Antonio Spurs             Milwaukee Bucks               No team                       
-Jacob Bennett                 New York Giants               Chicago Bears                 No team                       
+Jacob Bennett                 New York Giants               Chicago Bears                 New England Patriots          
 Jacob Scott                   Buffalo Bills                 Baltimore Ravens              No team                       
-James Carter                  New England Patriots          Chicago Bears                 No team                       
-Jason Allen                   Golden State Warriors         Los Angeles Lakers            No team                       
+James Carter                  New England Patriots          Chicago Bears                 Miami Dolphins                
+Jason Allen                   Golden State Warriors         Los Angeles Lakers            Miami Heat                    
 Jeffrey Cruz                  Miami Heat                    No team                       No team                       
 Jerry Jackson                 Denver Broncos                No team                       No team                       
-Jerry Perez                   Denver Broncos                Green Bay Packers             No team                       
+Jerry Perez                   Denver Broncos                Green Bay Packers             Seattle Seahawks              
 Jesse Green                   Boston Celtics                Philadelphia 76ers            No team                       
 Jesse Turner                  Golden State Warriors         No team                       No team                       
 Joe Anderson                  Miami Heat                    Dallas Mavericks              No team                       
-Joe Brown                     Chicago Bears                 Pittsburgh Steelers           No team                       
+Joe Brown                     Chicago Bears                 Pittsburgh Steelers           New York Giants               
 Joe Wilson                    New England Patriots          San Francisco 49ers           No team                       
 Jordan Cooper                 San Francisco 49ers           Miami Dolphins                No team                       
 Jordan Robinson               Chicago Bulls                 Brooklyn Nets                 No team                       
 Jose Nguyen                   Green Bay Packers             No team                       No team                       
-Jose Taylor                   Boston Celtics                Miami Heat                    No team                       
+Jose Taylor                   Boston Celtics                Miami Heat                    Milwaukee Bucks               
 Joshua Campbell               New York Knicks               Los Angeles Clippers          No team                       
 Joshua Ortiz                  Golden State Warriors         No team                       No team                       
 Joshua Walker                 Los Angeles Lakers            Denver Nuggets                No team                       
-Justin Anderson               Baltimore Ravens              Seattle Seahawks              No team                       
+Justin Anderson               Baltimore Ravens              Seattle Seahawks              Chicago Bears                 
 Justin Brown                  Chicago Bears                 No team                       No team                       
 Justin Diaz                   Los Angeles Lakers            No team                       No team                       
-Justin Wilson                 Chicago Bears                 Dallas Cowboys                No team                       
+Justin Wilson                 Chicago Bears                 Dallas Cowboys                New York Giants               
 Kevin Hall                    Pittsburgh Steelers           No team                       No team                       
 Kevin Lopez                   Denver Nuggets                No team                       No team                       
-Kyle Bennett                  Los Angeles Rams              Denver Broncos                No team                       
+Kyle Bennett                  Los Angeles Rams              Denver Broncos                Green Bay Packers             
 Kyle Gonzalez                 Los Angeles Rams              Kansas City Chiefs            No team                       
 Kyle Ruiz                     Kansas City Chiefs            Chicago Bears                 No team                       
-Kyle Scott                    Los Angeles Clippers          Chicago Bulls                 No team                       
-Larry Jackson                 Milwaukee Bucks               Los Angeles Clippers          No team                       
+Kyle Scott                    Los Angeles Clippers          Chicago Bulls                 Miami Heat                    
+Larry Jackson                 Milwaukee Bucks               Los Angeles Clippers          San Antonio Spurs             
 Larry Perez                   San Antonio Spurs             No team                       No team                       
 Lawrence Richardson           Baltimore Ravens              Miami Dolphins                No team                       
-Logan Cruz                    Chicago Bears                 New England Patriots          No team                       
+Logan Cruz                    Chicago Bears                 New England Patriots          Miami Dolphins                
 Matthew Gomez                 Miami Dolphins                No team                       No team                       
 Matthew Gutierrez             Miami Dolphins                Kansas City Chiefs            No team                       
 Matthew Martinez              Los Angeles Rams              New England Patriots          No team                       
-Matthew Morgan                Boston Celtics                Dallas Mavericks              No team                       
-Matthew Parker                New York Knicks               Phoenix Suns                  No team                       
-Matthew Rodriguez             New York Giants               Dallas Cowboys                No team                       
-Michael Allen                 Baltimore Ravens              Dallas Cowboys                No team                       
+Matthew Morgan                Boston Celtics                Dallas Mavericks              Miami Heat                    
+Matthew Parker                New York Knicks               Phoenix Suns                  Dallas Mavericks              
+Matthew Rodriguez             New York Giants               Dallas Cowboys                Buffalo Bills                 
+Michael Allen                 Baltimore Ravens              Dallas Cowboys                Denver Broncos                
 Noah Sanchez                  Los Angeles Clippers          No team                       No team                       
 Patrick Nguyen                New York Knicks               No team                       No team                       
 Paul Cruz                     Baltimore Ravens              Chicago Bears                 No team                       
 Peter Reed                    Baltimore Ravens              No team                       No team                       
 Peter Thompson                Miami Heat                    No team                       No team                       
-Peter Ward                    Pittsburgh Steelers           Buffalo Bills                 No team                       
-Peter Wood                    New York Giants               Buffalo Bills                 No team                       
-Ralph Ramirez                 Chicago Bears                 Seattle Seahawks              No team                       
+Peter Ward                    Pittsburgh Steelers           Buffalo Bills                 Miami Dolphins                
+Peter Wood                    New York Giants               Buffalo Bills                 Miami Dolphins                
+Ralph Ramirez                 Chicago Bears                 Seattle Seahawks              Miami Dolphins                
 Raymond Chavez                Dallas Mavericks              Chicago Bulls                 No team                       
 Raymond Hill                  Seattle Seahawks              San Francisco 49ers           No team                       
 Richard Richardson            Miami Heat                    Dallas Mavericks              No team                       
-Robert Miller                 Kansas City Chiefs            Denver Broncos                No team                       
+Robert Miller                 Kansas City Chiefs            Denver Broncos                Green Bay Packers             
 Robert Watson                 San Antonio Spurs             Boston Celtics                No team                       
 Roger Gomez                   Los Angeles Lakers            No team                       No team                       
-Roger Gutierrez               Denver Nuggets                Los Angeles Lakers            No team                       
+Roger Gutierrez               Denver Nuggets                Los Angeles Lakers            Chicago Bulls                 
 Roger Martinez                San Francisco 49ers           No team                       No team                       
 Roger Morgan                  Green Bay Packers             No team                       No team                       
 Roger Nelson                  Chicago Bears                 Seattle Seahawks              No team                       
-Roger Rodriguez               Miami Dolphins                Chicago Bears                 No team                       
-Ryan Anderson                 Green Bay Packers             Chicago Bears                 No team                       
+Roger Rodriguez               Miami Dolphins                Chicago Bears                 Dallas Cowboys                
+Ryan Anderson                 Green Bay Packers             Chicago Bears                 New England Patriots          
 Ryan Brown                    Buffalo Bills                 No team                       No team                       
-Ryan Diaz                     New York Knicks               Miami Heat                    No team                       
+Ryan Diaz                     New York Knicks               Miami Heat                    Boston Celtics                
 Ryan Wilson                   New England Patriots          No team                       No team                       
 Samuel Green                  Buffalo Bills                 Denver Broncos                No team                       
-Samuel Turner                 Dallas Cowboys                Denver Broncos                No team                       
+Samuel Turner                 Dallas Cowboys                Denver Broncos                Seattle Seahawks              
 Sean Jackson                  Buffalo Bills                 Pittsburgh Steelers           No team                       
 Sean Perez                    Chicago Bulls                 No team                       No team                       
 Terry Miller                  Seattle Seahawks              No team                       No team                       
 Terry Watson                  Chicago Bears                 New England Patriots          No team                       
 Thomas Robinson               Denver Nuggets                No team                       No team                       
-Timothy Walker                Phoenix Suns                  Milwaukee Bucks               No team                       
-Tyler Robinson                Chicago Bulls                 Boston Celtics                No team                       
+Timothy Walker                Phoenix Suns                  Milwaukee Bucks               Philadelphia 76ers            
+Tyler Robinson                Chicago Bulls                 Boston Celtics                Miami Heat                    
 Walter Johnson                Seattle Seahawks              No team                       No team                       
 Walter Martin                 New York Knicks               Philadelphia 76ers            No team                       
-Walter Smith                  Miami Dolphins                Seattle Seahawks              No team                       
+Walter Smith                  Miami Dolphins                Seattle Seahawks              New York Giants               
 Walter Stewart                Los Angeles Lakers            San Antonio Spurs             No team                       
-Wayne Ramirez                 Kansas City Chiefs            Chicago Bears                 No team                       
+Wayne Ramirez                 Kansas City Chiefs            Chicago Bears                 Buffalo Bills                 
 William Howard                Phoenix Suns                  Miami Heat                    No team                       
 William Reed                  New England Patriots          Los Angeles Rams              No team                       
 William Thompson              Los Angeles Lakers            Los Angeles Clippers          No team                       
-William Ward                  Denver Nuggets                San Antonio Spurs             No team                       
-Zachary Taylor                Buffalo Bills                 Seattle Seahawks              No team                       
+William Ward                  Denver Nuggets                San Antonio Spurs             Brooklyn Nets                 
+Zachary Taylor                Buffalo Bills                 Seattle Seahawks              Dallas Cowboys                
 
 Records Printed: 5992

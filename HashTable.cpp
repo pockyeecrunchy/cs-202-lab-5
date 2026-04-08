@@ -259,7 +259,7 @@ void hashTable::PrintOneRecord(ofstream& out, node oneRecord)
 	//Team 3
 	//If the player has at least 3 teams, print it.
 	if (oneRecord.data.numberOfTeams >= 3)
-		out << setw(30) << "No team";
+		out << setw(30) << oneRecord.data.teams[2];
 	else
 		//otherwise print "No team"
 		out << setw(30) << "No team";
